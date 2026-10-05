@@ -1,7 +1,7 @@
 # EXP 5: Comparing Prompting Techniques Through Engineering Problem-Solving Scenarios
 
 # NAME : JEEVITH
-# REG NO : 212224100056
+# REG NO : 212223240059
 # Aim:To compare different prompting techniques and evaluate their effectiveness in solving real-world engineering problems by using a problem selected from a student's 3rd-year or final-year project work. 
 
 
